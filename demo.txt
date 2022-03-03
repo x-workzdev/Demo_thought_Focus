@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 good evening
-=======
 hello developer
->>>>>>> d1ef35e02a828e080ef22e79042fd472c71ca451
